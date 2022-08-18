@@ -1,0 +1,155 @@
+* {
+    margin: 0px;
+}
+
+.banner {
+    background-image: url(images/kids.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+p {
+    font-size: 20px;
+    width: 500px;
+    margin: 10px 0px 25px 0px;
+}
+
+.link-botton {
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 800;
+    color: white;
+    background-color: tomato;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+.title-text {
+    padding: 200px 0px 0px 150px;
+}
+
+.flex {
+    width: 500px;
+    margin: 300px 0px 300px 150px;
+
+}
+
+.depends-on-you {
+    width: 500px;
+    padding: 250px 50px 0px 80px;
+    border-radius: 10px;
+}
+
+.flexibility {
+    display: flex;
+}
+
+.happy-kids {
+    width: 500px;
+    margin: 0px 80px 0px 20px;
+    padding-left: 50px;
+    /* border-radius: 5px; */
+}
+
+.to-survive {
+    width: 500px;
+    padding: 150px 0px 300px 130px;
+}
+
+.top-text {
+    text-align: center;
+}
+
+#text-select {
+    margin: 50px 400px auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.direct-help {
+    display: flex;
+    background-color: burlywood;
+    margin-right: 20px;
+    padding: 30px 30px 0 40px;
+    border-radius: 5px;
+}
+
+.direct-help img {
+    padding-right: 30px;
+
+}
+
+.direct-help p {
+    width: 300px;
+}
+
+.images {
+    margin: 100px 20px 100px 0;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#word-select {
+    margin: 50px 400px auto;
+}
+
+.zakat-fund p {
+    width: 300px;
+    padding: 0px 25px 0px 25px;
+
+}
+
+.zakat-fund h3 {
+    padding: 5px 20px 0px 20px;
+}
+
+.zakat-fund {
+    background-color: linen;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+
+.zakat-fund img {
+    width: 350px;
+    border-radius: 5px;
+}
+
+.zakat-botton {
+    font-size: 20px;
+    font-weight: 60;
+    color: red;
+    padding: 5px 20px 0px 20px;
+}
+
+footer {
+    background-color: black;
+    padding: 50px 0;
+}
+
+footer h3 {
+    font-size: 40px;
+    color: orange;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
