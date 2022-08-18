@@ -36,32 +36,40 @@ p {
     padding: 200px 0px 0px 150px;
 }
 
+.flexibility {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
 .flex {
     width: 500px;
-    margin: 300px 0px 300px 150px;
-
+    margin-top: 40px;
 }
 
 .depends-on-you {
     width: 500px;
-    padding: 250px 50px 0px 80px;
+    margin-left: 50px;
     border-radius: 10px;
 }
 
-.flexibility {
-    display: flex;
-}
+
 
 .happy-kids {
     width: 500px;
-    margin: 0px 80px 0px 20px;
-    padding-left: 50px;
-    /* border-radius: 5px; */
+    margin-left: 50px;
+    border-radius: 5px;
 }
 
 .to-survive {
     width: 500px;
-    padding: 150px 0px 300px 130px;
+    margin-left: 50px;
+    margin-top: 100px;
+    /* padding: 150px 0px 300px 130px; */
+}
+
+.donation {
+    margin-top: 150px;
 }
 
 .top-text {
@@ -69,7 +77,7 @@ p {
 }
 
 #text-select {
-    margin: 50px 400px auto;
+    margin: auto;
 }
 
 .container {
@@ -104,7 +112,8 @@ p {
 }
 
 #word-select {
-    margin: 50px 400px auto;
+    margin: 20px auto;
+
 }
 
 .zakat-fund p {
